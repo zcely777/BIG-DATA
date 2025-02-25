@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "Un cambio en la nueva-rama" 
+=======
+Un cambio en la nueva-rama
+>>>>>>> f717a25091b80fdbeea880aa5d161313c81b9a88
